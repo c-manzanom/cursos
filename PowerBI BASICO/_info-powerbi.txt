@@ -1,0 +1,22 @@
+Microsoft Power BI Desktop es una aplicación complementaria de escritorio para Power BI.
+
+Con Power BI Desktop, podrá:
+Obtener datos
+Power BI Desktop facilita la detección de datos. Puede importar datos desde una gran variedad de orígenes de datos. Después de conectarse a un origen de datos, puede modelar los datos para que coincidan con sus necesidades de informes y análisis.
+Cree relaciones y enriquezca su modelo de datos con nuevos formatos de datos y medidas
+Al importar dos o más tablas, a menudo necesitará crear relaciones entre esas tablas. Power BI Desktop incluye el cuadro de diálogo Administrar relaciones y la vista Relaciones, donde puede usar Detección automática para permitir que Power BI Desktop busque y cree relaciones, o puede crearlas usted mismo. También puede crear muy fácilmente sus propias medidas y cálculos o personalizar los formatos de datos y categorías para enriquecer los datos para obtener información adicional.
+Crear informes
+Power BI Desktop incluye la vista de informe. Seleccione los campos que desee, agregue filtros, elija entre docenas de visualizaciones, formatee sus informes con colores personalizados, degradados y algunas otras opciones de formato. La vista de informe proporciona las mismas excelentes herramientas de informe visualización que cuando se crea un informe en PowerBI.com.
+Guardar informes
+Mediante Power BI Desktop, puede guardar su trabajo como un archivo de Power BI Desktop. Los archivos de Power BI Desktop tienen una extensión .pbix.
+Cargar o publicar sus informes
+Puede cargar los informes que ha creado y guardado en el escritorio en su sitio de Power BI. También puede publicarlos en Power BI directamente desde Power BI Desktop.
+
+System Requirements
+Supported Operating Systems
+
+Windows 10, Windows 11, Windows Server 2016, Windows Server 2019
+
+Microsoft Power BI Desktop requiere Internet Explorer 10 o superior.
+
+Microsoft Power BI Desktop está disponible para plataformas de 64 bits (x64).
